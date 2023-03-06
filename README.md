@@ -5,7 +5,7 @@ A simple and beautiful CRUD application built with React and Redux
 Functionality
 ---------------------------------------------------------------------------------------------------------
 
-    * Fetch the list of owners
+    * Fetch the List of Owners
     * Add Owner
     * Update Owner
     * Delete Owner
